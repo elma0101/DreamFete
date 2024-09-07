@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\events.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\events.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\events.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\events.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\participants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\participants.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\clients.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|c:\\users\\j.p.m\\desktop\\s2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C254F16-FFB8-4300-BDA7-D692D8C14B5E}|event_manager\\event_manager.vbproj|solutionrelative:event_manager\\registration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "events.vb",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\events.vb",
+              "RelativeDocumentMoniker": "event_manager\\events.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\events.vb*",
+              "RelativeToolTip": "event_manager\\events.vb*",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAqwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:23:31.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "events.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\events.vb",
+              "RelativeDocumentMoniker": "event_manager\\events.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\events.vb [Conception]*",
+              "RelativeToolTip": "event_manager\\events.vb [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:23:27.567Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registration.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb",
+              "RelativeDocumentMoniker": "event_manager\\registration.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb [Conception]*",
+              "RelativeToolTip": "event_manager\\registration.vb [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:23:23.042Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "participants.vb",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb",
+              "RelativeDocumentMoniker": "event_manager\\participants.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb*",
+              "RelativeToolTip": "event_manager\\participants.vb*",
+              "ViewState": "AQIAACIAAAAAAAAAAADwv0IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:23:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "participants.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb",
+              "RelativeDocumentMoniker": "event_manager\\participants.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\participants.vb [Conception]*",
+              "RelativeToolTip": "event_manager\\participants.vb [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:23:07.874Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clients.vb",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb",
+              "RelativeDocumentMoniker": "event_manager\\clients.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb",
+              "RelativeToolTip": "event_manager\\clients.vb",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:21:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clients.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb",
+              "RelativeDocumentMoniker": "event_manager\\clients.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\clients.vb [Conception]",
+              "RelativeToolTip": "event_manager\\clients.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:21:31.398Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.vb",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\login.vb",
+              "RelativeDocumentMoniker": "event_manager\\login.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\login.vb*",
+              "RelativeToolTip": "event_manager\\login.vb*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:19:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "registration.vb",
+              "DocumentMoniker": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb",
+              "RelativeDocumentMoniker": "event_manager\\registration.vb",
+              "ToolTip": "C:\\Users\\J.P.M\\Desktop\\S2\\c\u002B\u002B\\event management system\\event_manager\\registration.vb*",
+              "RelativeToolTip": "event_manager\\registration.vb*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T18:17:11.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

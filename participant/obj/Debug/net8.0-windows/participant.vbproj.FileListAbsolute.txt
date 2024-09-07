@@ -1,0 +1,17 @@
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\bin\Debug\net8.0-windows\participant.exe
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\bin\Debug\net8.0-windows\participant.deps.json
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\bin\Debug\net8.0-windows\participant.runtimeconfig.json
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\bin\Debug\net8.0-windows\participant.dll
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\bin\Debug\net8.0-windows\participant.pdb
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.Form1.resources
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.vbproj.GenerateResource.cache
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.AssemblyInfoInputs.cache
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.AssemblyInfo.vb
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.vbproj.CoreCompileInputs.cache
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.dll
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\refint\participant.dll
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.pdb
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.genruntimeconfig.cache
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\ref\participant.dll
+C:\Users\J.P.M\Desktop\S2\c++\event management system\participant\obj\Debug\net8.0-windows\participant.Form2.resources
